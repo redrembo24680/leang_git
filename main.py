@@ -18,3 +18,4 @@ lamba = Car()
 print(lamba.y)
 lamba.drive(lamba.x, lamba.y)
 
+print('Niga niga niga niga')
